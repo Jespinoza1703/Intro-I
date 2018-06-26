@@ -1,0 +1,4 @@
+Fabian;hola;hola;Costa Rica
+Tomas;hello;hello;Otro
+Jessica;contraseña;correo;Otro
+Erick;contraseña;correo;Costa Rica

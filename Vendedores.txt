@@ -1,0 +1,8 @@
+1;Nintendo;nintendo@gmail.com;www.Nintendo.com
+2;Niantic Inc;niantic@gmail.com;www.NianticInc.com
+3;King;king@gmail.com;www.King.com
+4;WP Technology Inc;wptech@gmail.com;www.WPTech.com
+5;Nikolai Durov;NikPav@gmail.com;www.NikPavDurov.com
+6;Larry Page;LarSer@gmail.com;www.LarSer.com
+7;Jawed Karim;youtube@gmail.com;www.YouTube.com
+8;Kindle;kinlde@gmail.com;www.Kindle.com9;VendedorNuevo;correo;Sitio Web

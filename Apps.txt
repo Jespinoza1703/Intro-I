@@ -1,0 +1,8 @@
+1;Super Mario Bros;0;Salta, recolecta monedas y power ups, destruye enemigos y completa con éxito todos los niveles junto a Mario.;5$;A;Mario1.gif;Mario2.gif;0;2
+2;Pokemon Go;0; El juego consiste en buscar y capturar Pokémon escondidos en ubicaciones del mundo real;10$;A;Pokemon1.gif;Pokemon2.gif;0;0
+3;Candy Crush;0;Únete a Tiffi y al señor Toffee en un épico viaje online repleto de deliciosos caramelos.;5$;A;Candy1.gif;Candy2.gif;0;0
+4;Wattpad;2;El mejor lugar para leer y compartir historias.;8$;A;Wattpad1.gif;Wattpad2.gif;0;2
+5;Telegram;3;Envío y recibo de mensajes de texto y multimedia.;15$;I;Telegram1.gif;Telegram2.gif;0;0
+6;GoogleMaps;4;Viaja con Maps, la aplicación oficial que te ofrece información sobre el tráfico y el transporte público;6$;A;GoogleMaps1.gif;GoogleMaps2.gif;0;0
+7;YouTube;1;Disfruta los videos y la música que te encantan, sube contenido original y compártelo con tus amigos.;10$;A;Youtube1.gif;Youtube2.gif;0;0
+8;YouTube;1;Disfruta los videos y la música que te encantan, sube contenido original y compártelo con tus amigos.;10$;A;Youtube1.gif;Youtube2.gif;0;0
